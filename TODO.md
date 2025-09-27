@@ -1,0 +1,4 @@
+- [x] Fix image paths in ok.java (remove "images/" prefix)
+- [x] Rename ok.java to CandyCrush.java
+- [x] Compile CandyCrush.java with javac
+- [ ] Run the program with java CandyCrush
